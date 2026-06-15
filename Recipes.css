@@ -1,0 +1,15 @@
+#div1{border:solid 3px blue;border-radius:10px 10px 10px 10px;height:180%;position:absolute;width:98%;}
+#div2{color:brown;font-style:italic;font-family:cursive;font-size:40px;}
+#div3{color:red; width:15%;font-family:cursive;font-size:30px;}
+#div4{box-shadow:inset -10px -10px 10px  pink;color:blue;border:1px solid black;display:inline-block;width:20%;border-radius:10px 10px 10px 10px;margin:8px;padding:5px;position:absolute;top:200px;left:40px;height:25% }
+#div5{box-shadow:inset -10px -10px 10px pink;color:blue;border:3px solid blue;display:inline-block;width:30%;border-radius:10px 0px 10px 0px;margin:8px;padding:5px;
+position:absolute;top:200px;left:540px;height:52%;}
+#div6{box-shadow:inset -10px -10px 10px pink;color:blue;border:3px solid blue;display:inline-block;width:15%;border-radius:10px 0px 10px 0px;margin:8px;padding:5px;
+position:absolute;top:200px;left:1200px;}
+#div7{position:absolute;left:30%;margin:8px;padding:5px;top:1000px;left:600px;}
+#div8{visibility:hidden;}
+#div9{visibility:hidden;}
+#div10{visibility:hidden;}
+#div11{visibility:hidden;}
+.li { display:block;}
+
